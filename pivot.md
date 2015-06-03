@@ -10,3 +10,4 @@
 
 -  Prep the table with observable, dependant variable and legend (very often your groups) 
 -  Click on PivotChart options and simply create a chart (usually colored chart works best)
+-  Second axis is simply obtained by right clicking on the legend entry name and selecting the option
