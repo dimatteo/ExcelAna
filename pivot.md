@@ -4,6 +4,7 @@
 -  Make whatever you want by dragging around the observable, labels and filters (this is obvious)
 -  To make new groups (very very useful) proceed as the following. Select cells, right click, then group. Iterate for all the groups youo want. At the end, you will have a new field with the groups that can be nicely used for summaries
 -  To rename the defalut group names simply put the new field in the Row Lables below and then change the field definition
+-  To remove grouped field simpy ungroup everything (by selecting the field you have grouped)
 
 # Charts #
 
